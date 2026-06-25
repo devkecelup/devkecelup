@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif" width="50%" />
@@ -201,4 +201,4 @@ Every donation helps me create even more content, streams, and even more random 
 *I build apps... then accidentally spend two hours animating the button."* 😂
 
 </div>
-````
+

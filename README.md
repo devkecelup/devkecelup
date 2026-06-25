@@ -10,9 +10,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7C83FD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+love+building+fun+web+projects.;VTuber+%7C+Streamer+%7C+Developer.;Sometimes+useful...+Sometimes+goofy." />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=devkecelup&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/devkecelup?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/devkecelup?style=for-the-badge"/>
 </p>
 
 </div>

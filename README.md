@@ -1,98 +1,180 @@
+
 <div align="center">
-<img src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
+<img src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif" width="100%" />
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+# 👋 Hey, I'm Kuro Noru
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+### 🎭 VTuber • 🎮 Streamer • 💻 Developer • 🎬 Content Creator
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7C83FD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+love+building+fun+web+projects.;VTuber+%7C+Streamer+%7C+Developer.;Sometimes+useful...+Sometimes+goofy." />
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+</p>
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+# 🌸 About Me
 
+```txt
+🎭 Name        : Kuro Noru
+🌏 Country     : Indonesia
+🎥 Occupation  : VTuber & Content Creator
+💻 Hobby       : Coding random things
+☕ Fuel         : Coffee & Instant Noodles
+😂 Personality : Slightly Goofy
+```
 
-</td><td valign="top" width="33%">
+Hi! 👋
 
+I'm **Kuro Noru**, an Indonesian VTuber who loves entertaining people through livestreams while creating random websites and tools.
 
+Sometimes I build something genuinely useful.
 
-</td></tr></table>  
+Sometimes...
 
-<br/>  
+I spend three hours making a button that spins.
 
+Worth it.
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/devkecelup" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+---
+
+# 🎮 Currently Doing
+
+- 🎥 Streaming on YouTube
+- 📱 Streaming on TikTok
+- 🎬 Creating short videos
+- 💻 Building web apps
+- 🛠 Making fun developer tools
+- 🚀 Learning new technologies
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# 🎥 Creator Setup
+
+| Category | Platform |
+|----------|----------|
+| 🎭 VTuber | YouTube Live |
+| 📱 Stream | TikTok Live |
+| 🎬 Shorts | TikTok |
+| 📷 Content | Instagram |
+| 💻 Projects | GitHub |
+
+---
+
+# 🚀 Featured Projects
+
+✨ Random Web Tools
+
+✨ Interactive Websites
+
+✨ Productivity Apps
+
+✨ Funny Mini Projects
+
+✨ Experiments
+
+---
+
+# ❤️ Support Me
+
+If my projects help you or you enjoy my streams...
+
+You can support me via **Saweria** ☕
+
+Every donation helps me create even more content and even more random tools.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://instagram.com/batmankecelup" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
+<a href="https://tiktok.com/">
+<img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"/>
 </a>
-<a href="https://www.youtube.com/@Arifamimir" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devkecelup&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<a href="https://saweria.co/">
+<img src="https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge"/>
+</a>
 
-<br/>  
+</p>
 
+---
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+# 📊 GitHub Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=devkecelup&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🎵 Current Vibes
+
+> 🎧 Coding  
+> 🎮 Streaming  
+> ☕ Coffee  
+> 💻 Building weird ideas into reality.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Some people build apps.*
+
+*I build apps... then accidentally spend two hours animating the button."* 😂
+
+</div>
+

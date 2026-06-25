@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif" width="100%" />
+<img src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif" width="50%" />
 
 # 👋 Hey, I'm Kuro Noru
 
@@ -105,7 +105,7 @@ Every donation helps me create even more content and even more random tools.
 
 <p align="center">
 
-<a href="https://youtube.com/">
+<a href="https://youtube.com/Arifamimir">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
@@ -113,15 +113,15 @@ Every donation helps me create even more content and even more random tools.
 <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"/>
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://instagram.com/batmankecelup">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/devkecelup">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://saweria.co/">
+<a href="https://saweria.co/devkecelup">
 <img src="https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge"/>
 </a>
 
@@ -133,9 +133,9 @@ Every donation helps me create even more content and even more random tools.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devkecelup&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkecelup&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -143,7 +143,7 @@ Every donation helps me create even more content and even more random tools.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkecelup&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -153,7 +153,7 @@ Every donation helps me create even more content and even more random tools.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/devkecelup/devkecelup/output/github-contribution-grid-snake.svg"/>
 
 </div>
 

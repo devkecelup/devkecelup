@@ -75,6 +75,7 @@ I'm Kuroki, a content creator and developer from Indonesia. I make videos and bu
 | YouTube | Videos |
 | Instagram | Content |
 | GitHub | Projects |
+| Discord | Community |
 
 ---
 
@@ -93,14 +94,17 @@ If my projects or videos help you, you can support me on Saweria.
 ## Connect With Me
 
 <p align="center">
-<a href="https://youtube.com/@Arifamimir">
+<a href="https://www.youtube.com/@furinachan19">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-<a href="https://instagram.com/batmankecelup">
+<a href="https://instagram.com/kurokiii1">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://github.com/devkecelup">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://discord.gg/kMrHnZAWny">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 </p>
 

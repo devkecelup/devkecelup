@@ -1,164 +1,118 @@
-
 <div align="center">
 
-<img src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif" width="50%" />
+<img src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif" width="50%" alt="Furina animation" />
 
-# 👋 Hey, I'm Kuro Noru
+# Kuroki
 
-### 🎭 VTuber • 🎮 Streamer • 💻 Developer • 🎬 Content Creator
+### Content Creator and Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7C83FD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+love+building+fun+web+projects.;VTuber+%7C+Streamer+%7C+Developer.;Sometimes+useful...+Sometimes+goofy." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7C83FD&center=true&vCenter=true&width=650&lines=Content+creator+and+developer.;I+build+web+tools+and+edit+videos.;Welcome+to+my+GitHub." alt="Content creator and developer. I build web tools and edit videos." />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=devkecelup&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/devkecelup?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/devkecelup?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=devkecelup&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/devkecelup?style=for-the-badge" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/devkecelup?style=for-the-badge" alt="GitHub stars" />
 </p>
 
 </div>
 
 ---
 
-# 🌸 About Me
+## About Me
 
 ```txt
-🎭 Name        : Kuro Noru
-🌏 Country     : Indonesia
-🎥 Occupation  : VTuber • Streamer • Content Creator
-💻 Hobby       : Building random web projects
-☕ Fuel         : Coffee & Instant Noodles
-😂 Personality : Slightly Goofy
+Name       : Kuroki
+Country    : Indonesia
+Occupation : Content creator and developer
+Focus      : Web projects and video editing
+Fuel       : Coffee and instant noodles
 ```
 
-Hi! 👋
-
-I'm **Kuro Noru**, an Indonesian VTuber who loves entertaining people through livestreams while creating random websites and tools.
-
-Sometimes I build something genuinely useful.
-
-Sometimes...
-
-I spend three hours making a button that spins.
-
-Worth it.
+I'm Kuroki, a content creator and developer from Indonesia. I make videos and build web apps, tools, and small experiments. Some of them are useful. A few exist because I wanted to see if I could make them.
 
 ---
 
-# 🎮 Currently Doing
+## Currently Doing
 
-- 🎥 Streaming on YouTube
-- 📱 Streaming on TikTok
-- 🎬 Creating content for TikTok & Instagram
-- 💻 Building web apps and developer tools
-- 🛠 Creating fun little utilities
-- 🚀 Learning new technologies every day
+- Publishing videos on YouTube
+- Posting on Instagram
+- Building web apps and developer tools
+- Learning new tools and languages
 
 ---
 
-# 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,git,github,vscode" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="55" alt="Adobe Premiere Pro"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/davinciresolve/233A51" height="55" alt="DaVinci Resolve"/>
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/96/capcut.png" height="55" alt="CapCut"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,git,github,vscode" alt="HTML, CSS, JavaScript, PHP, Node.js, Express, Git, GitHub, VS Code" />
 </p>
 
-<div align="center">
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="55" alt="Adobe Premiere Pro" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/davinciresolve/233A51" height="55" alt="DaVinci Resolve" />
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Capcut-icon.svg" height="55" alt="CapCut" />
+</p>
 
-| 💻 Development | 🎬 Editing |
-|:--------------|:-----------|
-| HTML | DaVinci Resolve |
-| CSS | Adobe Premiere Pro |
+| Development | Editing |
+|:------------|:--------|
+| HTML | Adobe Premiere Pro |
+| CSS | DaVinci Resolve |
 | JavaScript | CapCut |
-| PHP | Video Editing |
-| Node.js | Content Creation |
+| PHP | Video editing |
+| Node.js | Content creation |
 | Express.js | |
-| Git & GitHub | |
+| Git and GitHub | |
 | VS Code | |
 
-</div>
+---
+
+## Where to Find Me
+
+| Platform | What I post |
+|----------|-------------|
+| YouTube | Videos |
+| Instagram | Content |
+| GitHub | Projects |
 
 ---
 
-# 🎥 Creator Setup
+## Support
 
-| Category | Platform |
-|----------|----------|
-| 🎭 VTuber | YouTube Live |
-| 📱 Stream | TikTok Live |
-| 🎬 Shorts | TikTok |
-| 📷 Content | Instagram |
-| 💻 Projects | GitHub |
-
----
-
-# 🚀 Featured Projects
-
-✨ Random Web Tools
-
-✨ Interactive Websites
-
-✨ Productivity Apps
-
-✨ Funny Mini Projects
-
-✨ Experiments
-
----
-
-# ❤️ Support Me
-
-If my projects help you or you enjoy my streams...
-
-You can support me via **Saweria** ☕
-
-Every donation helps me create even more content, streams, and even more random tools.
-
----
-
-# 🌐 Connect With Me
+If my projects or videos help you, you can support me on Saweria.
 
 <p align="center">
-
-<a href="https://youtube.com/@Arifamimir">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://tiktok.com/@YOUR_USERNAME">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/>
-</a>
-
-<a href="https://instagram.com/batmankecelup">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/devkecelup">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://saweria.co/devkecelup">
-<img src="https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge&logoColor=black" alt="Saweria" />
 </a>
-
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## Connect With Me
+
+<p align="center">
+<a href="https://youtube.com/@Arifamimir">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://instagram.com/batmankecelup">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/devkecelup">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devkecelup&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devkecelup&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub stats for devkecelup" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkecelup&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkecelup&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for devkecelup" />
 
 </div>
 
@@ -166,39 +120,16 @@ Every donation helps me create even more content, streams, and even more random 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkecelup&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkecelup&theme=tokyonight&hide_border=true" alt="GitHub streak for devkecelup" />
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devkecelup/devkecelup/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 🎵 Current Vibes
-
-> 🎧 Coding  
-> 🎮 Streaming  
-> 🎬 Editing Videos  
-> ☕ Coffee  
-> 💻 Building weird ideas into reality.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+Thanks for visiting.
 
-*"Some people build apps.*
-
-*I build apps... then accidentally spend two hours animating the button."* 😂
+*I build web things, then lose an afternoon animating a button.*
 
 </div>
-
